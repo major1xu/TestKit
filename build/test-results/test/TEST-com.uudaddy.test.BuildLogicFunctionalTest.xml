@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.uudaddy.test.BuildLogicFunctionalTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-12T18:36:36" hostname="SOAISCD141744" time="5.096">
+  <properties/>
+  <testcase name="testHelloWorldTask" classname="com.uudaddy.test.BuildLogicFunctionalTest" time="5.096"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
