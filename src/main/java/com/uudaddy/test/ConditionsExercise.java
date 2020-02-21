@@ -9,11 +9,9 @@ Problem
 % 7 not %4 => Parts
 Rest just put out numbers (number is from 1 to 30)
 
+don't use java String replace or replaceALl function,
 string, replace f with d
 Muffle => muddle
-
-Problem 3
-())) => out put 2, because 3 right parens - 1 left paren = 2
 
  */
 
